@@ -14,6 +14,7 @@
 		F6C0923E2A6C643D00391C1D /* CoreDataProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F6C0923C2A6C643D00391C1D /* CoreDataProject.xcdatamodeld */; };
 		F6C092412A6C681700391C1D /* Movie+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C0923F2A6C681700391C1D /* Movie+CoreDataClass.swift */; };
 		F6C092422A6C681700391C1D /* Movie+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C092402A6C681700391C1D /* Movie+CoreDataProperties.swift */; };
+		F6C092442A6E324F00391C1D /* FilteredList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C092432A6E324F00391C1D /* FilteredList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		F6C0923D2A6C643D00391C1D /* CoreDataProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataProject.xcdatamodel; sourceTree = "<group>"; };
 		F6C0923F2A6C681700391C1D /* Movie+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie+CoreDataClass.swift"; sourceTree = SOURCE_ROOT; };
 		F6C092402A6C681700391C1D /* Movie+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie+CoreDataProperties.swift"; sourceTree = SOURCE_ROOT; };
+		F6C092432A6E324F00391C1D /* FilteredList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				F6C092322A6B94AA00391C1D /* Assets.xcassets */,
 				F6C092342A6B94AA00391C1D /* Preview Content */,
 				F6C0923C2A6C643D00391C1D /* CoreDataProject.xcdatamodeld */,
+				F6C092432A6E324F00391C1D /* FilteredList.swift */,
 			);
 			path = CoreDataProject;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				F6C092412A6C681700391C1D /* Movie+CoreDataClass.swift in Sources */,
 				F6C092422A6C681700391C1D /* Movie+CoreDataProperties.swift in Sources */,
+				F6C092442A6E324F00391C1D /* FilteredList.swift in Sources */,
 				F6C092312A6B94A900391C1D /* ContentView.swift in Sources */,
 				F6C0922F2A6B94A900391C1D /* CoreDataProjectApp.swift in Sources */,
 				F6C0923E2A6C643D00391C1D /* CoreDataProject.xcdatamodeld in Sources */,
